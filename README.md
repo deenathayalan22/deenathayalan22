@@ -28,11 +28,11 @@
  <br/>
 Hi there! Welcome to my GitHub profile! I'm Deenathayalan, a passionate MERN Stack Developer with a love for building web applications that are not only aesthetically pleasing but also highly functional and user-friendly.
 
-💻 My Journey:
-My journey as a developer began with an insatiable curiosity for technology. I immersed myself in the world of programming, and my passion for creating impactful digital solutions led me to specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack. It's a powerful combination that allows me to craft full-stack applications from the ground up.
+`💻 My Journey:`
+- My journey as a developer began with an insatiable curiosity for technology. I immersed myself in the world of programming, and my passion for creating impactful digital solutions led me to specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack. It's a powerful combination that allows me to craft full-stack applications from the ground up.
  <br/>
-🚀 Technical Expertise:
-With several years of experience under my belt, I have honed my skills in front-end and back-end technologies. From designing elegant user interfaces with React.js to crafting robust and scalable server-side applications using Node.js and Express.js, I thrive in architecting seamless experiences for users.
+`🚀 Technical Expertise:`
+- With several years of experience under my belt, I have honed my skills in front-end and back-end technologies. From designing elegant user interfaces with React.js to crafting robust and scalable server-side applications using Node.js and Express.js, I thrive in architecting seamless experiences for users.
  <br/>
 🗃️ Database Ninja:
 As a MongoDB enthusiast, I take pride in mastering the art of NoSQL databases. From database design to handling complex queries, I'm skilled at optimizing data structures for improved performance and efficiency.
