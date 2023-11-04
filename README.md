@@ -27,7 +27,8 @@
  <br/>
  <br/>
 Hi there! Welcome to my GitHub profile! I'm Deenathayalan, a passionate MERN Stack Developer with a love for building web applications that are not only aesthetically pleasing but also highly functional and user-friendly.
-
+ <br/>
+ <br/>
 `💻 My Journey:`
 - My journey as a developer began with an insatiable curiosity for technology. I immersed myself in the world of programming, and my passion for creating impactful digital solutions led me to specialize in the MERN (MongoDB, Express.js, React.js, Node.js) stack. It's a powerful combination that allows me to craft full-stack applications from the ground up.
 
