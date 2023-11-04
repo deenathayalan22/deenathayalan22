@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="./banner.jpg" />
   
 </div>
 
@@ -12,7 +12,7 @@
 ## 👨🏻‍💻 About Me:
  <br/>
 
-<img  src="./sidebar.png" height="290px" align="right" />
+<img  src="./sidebar.jpg" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://thayalan.netlify.app)**
 
